@@ -1,4 +1,4 @@
-Simple GIF SEARCH APP to search GIFs and copy it
+<h1>Simple GIF SEARCH APP to search GIFs and copy it</h1>h1>
 
 
 -Usage 
