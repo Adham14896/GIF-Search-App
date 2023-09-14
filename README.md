@@ -1,6 +1,6 @@
 <h1>Simple GIF SEARCH APP to search GIFs and copy it</h1>
 
-img src="https://github.com/Adham14896/GIF-Search-App/blob/master/screenshot.jpg">
+<img src="https://github.com/Adham14896/GIF-Search-App/blob/master/screenshot.jpg">
 
 <h1>Usage</h1> 
 
