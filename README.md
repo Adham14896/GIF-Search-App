@@ -8,4 +8,4 @@
 
 <h1>Live demo:</h1>
 
-<a href="gif-explore.sh">gif-explore.sh</a>
+<a href="gif-explore.surge.sh">gif-explore.surge.sh</a>
